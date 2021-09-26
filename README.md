@@ -3,5 +3,5 @@
 HttpClient
 ExtentReports5
 
-# To generate reprots, run below command
+# To generate report, run below command
 mvn clean test
